@@ -9,7 +9,7 @@
 #ifndef SYSTEM64_H
 #define SYSTEM64_H
 
-#include <ps4.h>
+#include "types.h"
 
 #define nop() __asm__ __volatile__ ("nop")                          // No Operation.
 #define cli() __asm__ __volatile__ ("cli")                          // Disable interrrupts.
