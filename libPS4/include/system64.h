@@ -6,8 +6,8 @@
  *  
  */
 
-#ifndef SYSTEM_64_H
-#define SYSTEM_64_H
+#ifndef SYSTEM64_H
+#define SYSTEM64_H
 
 #include <ps4.h>
 
